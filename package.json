@@ -1,15 +1,35 @@
 {
-    "name": "naviairutmextensions",
+    "name": "rhl.naviairutmextensions",
     "displayName": "NaviairUTMExtensions",
     "description": "A collection of VS Code extensions used by the Naviair UTM team",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.45.0"
     },
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-vscode.azurecli",
+        "ms-vscode.azure-account",
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-cosmosdb",
+        "ms-azure-devops.azure-pipelines",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "msazurermtools.azurerm-vscode-tools",
+        "ms-azuretools.vscode-azurestorage",
+        "ms-vscode.vscode-node-azure-pack",
+        "ms-azuretools.vscode-azurevirtualmachines",
+        "ms-azuretools.vscode-apimanagement",
+        "ckolkman.vscode-postgres",
+        "msjsdiag.debugger-for-chrome",
+        "firefox-devtools.vscode-firefox-debug",
+        "ms-azuretools.vscode-docker",
+        "msjsdiag.vscode-react-native",
+        "visualstudioexptteam.vscodeintellicode",
+        "yzhang.markdown-all-in-one",
+        "aaron-bond.better-comments",
+        "esbenp.prettier-vscode"
     ]
 }

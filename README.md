@@ -1,16 +1,4 @@
-# README
+# Naviair UTM Extensions
+This extension serves the purpose of making the installation of a new PC easy. The UTM department use a lot of different extensions in VS Code and it might get tedious to serach for and install them one by one. 
 
-## This is the README for your extension pack "naviairutmextensions"
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This extension does all of the boring tasks for you.
