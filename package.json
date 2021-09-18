@@ -1,8 +1,13 @@
 {
-    "name": "rhl.naviairutmextensions",
+    "name": "naviairutmextensions",
     "displayName": "NaviairUTMExtensions",
     "description": "A collection of VS Code extensions used by the Naviair UTM team",
     "version": "0.0.1",
+    "publisher": "RLOnlineMedia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rhl2401/naviairutmextensions"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
